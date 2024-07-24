@@ -1,8 +1,15 @@
 
-img{
-    
+.img{
+    background: url(https://preview.colorlib.com/theme/rezume/images/image_1.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 100vw;
     height: 100vh;
+}
+.img div{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(7, 7, 7, 0.5);
 }
 .a{
     color: white;
@@ -35,10 +42,10 @@ img{
     font-size: 20px;
 }
 h1{
-    margin-left: 550px;
+    margin-left: 610px;
     color: white;
     font-size: 50px;
-    margin-top: 200px;
+    margin-top: 350px;
 }
 b{
     margin-left: -60px;
@@ -47,7 +54,7 @@ b{
 }
 .x{
     color: white;
-    margin-left: 600px;
+    margin-left: 660px;
     margin-top: -50px;
 }
 /* .menu{
@@ -59,7 +66,7 @@ b{
 body{
     background-color: #222222;
 }
- /* .menu{
+ .menu{
     background-color: white;
     width: 100vw;
     height: 5vh;
@@ -67,7 +74,8 @@ body{
     top: 0px;
     padding-top: 20px ;
     margin-left: -15px;
-} */
+    z-index: 99;
+}
 a{
     text-decoration: none;
     color: #747474;
@@ -103,8 +111,8 @@ a:hover{
     color: green;
 }
 .z{
-    margin-top: 446px;
-    margin-left: 500px;
+    margin-top: 256px;
+    margin-left: 520px;
     color: white;
     font-size: 40px;
 }
@@ -283,8 +291,8 @@ a:hover{
 }
 .zzz{
     position: absolute;
-    top: 1880px;
-    left: 90px;
+    top: 1700px;
+    left: 30px;
 }
 .edu{
     color: white;
@@ -907,6 +915,8 @@ transition: 3s;
             position: absolute;
             top: 6850px ;
             left: 240px ;
+            border: none;
+            outline: none;
         }
         .in2{
             background-color: #333333;
@@ -916,6 +926,8 @@ transition: 3s;
             position: absolute;
             top: 6910px ;
             left: 240px ;
+            border: none;
+            outline: none;
         }
         .in3{
             background-color: #333333;
@@ -925,6 +937,8 @@ transition: 3s;
             position: absolute;
             top: 6970px ;
             left: 240px ;
+            border: none;
+            outline: none;
         }
         .in4{
             background-color: #333333;
