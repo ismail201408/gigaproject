@@ -322,6 +322,7 @@ i{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .rezume i{
     padding-left: 20px;
@@ -353,6 +354,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .r3{
     position: absolute;
@@ -361,6 +363,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .r4{
     position: absolute;
@@ -369,6 +372,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .r5{
     position: absolute;
@@ -377,6 +381,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .r6{
     position: absolute;
@@ -385,6 +390,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .r7{
     position: absolute;
@@ -393,6 +399,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .r8{
     position: absolute;
@@ -401,6 +408,7 @@ span{
     width: 550px;
     height: 210px;
     background-color: #333333;
+    border-radius: 20px;
 }
 .imggg{
     background: url(https://preview.colorlib.com/theme/rezume/images/image_1.jpg.webp);
@@ -499,12 +507,12 @@ button{
     border-radius: 100% ;
    position: absolute;
     top: 4400px ;
-    left: 230px;
+    left: 160px;
 }
 .cl2{
     position: absolute;
     top: 4400px ;
-    left: 290px;
+    left: 230px;
     color:#747474;
     background-color: #333333 ;
     width: 450px;
@@ -524,12 +532,12 @@ color: green;
     border-radius: 100% ;
    position: absolute;
     top: 4600px ;
-    left: 230px;
+    left: 160px;
 }
 .cl4{
     position: absolute;
     top: 4620px ;
-    left: 290px;
+    left: 230px;
     color:#747474;
     background-color: #333333 ;
     width: 450px;
@@ -546,12 +554,12 @@ color: green;
     border-radius: 100% ;
    position: absolute;
     top: 4400px ;
-    left: 890px;
+    left: 750px;
 }
 .cl6{
     position: absolute;
     top: 4400px ;
-    left: 950px;
+    left: 810px;
     color:#747474;
     background-color: #333333 ;
     width: 450px;
@@ -568,12 +576,12 @@ color: green;
     border-radius: 100% ;
    position: absolute;
     top: 4600px ;
-    left: 890px;
+    left: 750px;
 }
 .cl8{
     position: absolute;
     top: 4620px ;
-    left: 950px;
+    left: 810px;
     color:#747474;
     background-color: #333333 ;
     width: 450px;
