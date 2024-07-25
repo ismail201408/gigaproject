@@ -98,12 +98,12 @@ a{
 .d1{
    position: absolute;
    top: 20px;
-   left: 870px;
+   left: 920px;
     font-size: 20px;
 }
 .e1{
    position: absolute;
-  left: 980px;
+  left: 1030px;
   top: 20px;
     font-size: 20px;
 }
@@ -114,7 +114,7 @@ a:hover{
     margin-top: 256px;
     margin-left: 520px;
     color: white;
-    font-size: 40px;
+    font-size: 35px;
 }
 .a:hover{
     color: green;
@@ -164,8 +164,8 @@ a:hover{
 }
 .x2{
     color: white;
-    
-    font-weight:830 ;
+    font-size: 10;
+    font-weight:60 ;
 }
 .f1{
     position: absolute;
@@ -323,21 +323,28 @@ i{
     height: 210px;
     background-color: #333333;
 }
+.rezume i{
+    padding-left: 20px;
+}
 .green{
     color: green;
     font-size: 22px;
+    padding-left: 20px;
 }
 span{
     color: white;
     font-size: 22px;
+    padding-left: 20px;
 }
 .pre{
     color: #7c7d7f;
     font-size: 22px;
+    padding-left: 20px;
 }
 .pre1{
     color: #7c7d7f ;
     font-size: 22px;
+    padding-left: 20px;
 }
 .r2{
     position: absolute;
@@ -448,23 +455,25 @@ h3{
 }
 button{
     background-color: rgb(166, 230, 70);
-    border-radius: 40%;
+    border-radius: 20px;
     width: 150px;
     height: 30px ;
     position: absolute;
     top: 3900px;
     left: 860px;
     font-size: 20px;
+    color: white;
 }
 .qqq{
    background-color: grey;
-    border-radius: 40%;
+    border-radius: 20px;
     width: 150px;
     height: 30px ;
     position: absolute;
     top: 3900px;
     left: 1030px;
     font-size: 20px;
+    color: white;
 }
 .cli{
     color: white;
@@ -496,12 +505,15 @@ button{
     position: absolute;
     top: 4400px ;
     left: 290px;
-    color: white;
+    color:#747474;
     background-color: #333333 ;
     width: 450px;
-    height: 150px;
+    height: 190px;
     padding-left: 50px ;
     border-radius: 7%;
+}
+.client a{
+color: green;
 }
 .cl3{
     background: url(https://preview.colorlib.com/theme/rezume/images/person_3.jpg);
@@ -516,12 +528,12 @@ button{
 }
 .cl4{
     position: absolute;
-    top: 4600px ;
+    top: 4620px ;
     left: 290px;
-    color: white;
+    color:#747474;
     background-color: #333333 ;
     width: 450px;
-    height: 150px;
+    height: 190px;
     padding-left: 50px ;
     border-radius: 7%;
 }
@@ -540,10 +552,10 @@ button{
     position: absolute;
     top: 4400px ;
     left: 950px;
-    color: white;
+    color:#747474;
     background-color: #333333 ;
     width: 450px;
-    height: 150px;
+    height: 190px;
     padding-left: 50px ;
     border-radius: 7%;
 }
@@ -560,12 +572,12 @@ button{
 }
 .cl8{
     position: absolute;
-    top: 4600px ;
+    top: 4620px ;
     left: 950px;
-    color: white;
+    color:#747474;
     background-color: #333333 ;
     width: 450px;
-    height: 150px;
+    height: 190px;
     padding-left: 50px ;
     border-radius: 7%;
 }
@@ -812,6 +824,7 @@ transition: 3s;
     position: absolute;
     top: 20px;
     left: 10px;
+    color: white;
 }
 .blo2 p{
     position: absolute;
@@ -819,7 +832,27 @@ transition: 3s;
     left: 10px;
     color: #747474;
 }
+.zxc{
+    margin-top: 162px;
+    font-size: 20px;
+}
+.zxc:hover{
+    margin-top: 162px;
+    font-size: 20px;
+    color: green;
+}
 
+.vbn{
+    margin-left: 120px;
+    margin-top: 162px;
+    font-size: 20px;
+}
+.vbn:hover{
+    margin-left: 120px;
+    margin-top: 162px;
+    font-size: 20px;
+    color: green;
+}
 
 .blo4{
     background: url(https://preview.colorlib.com/theme/rezume/images/post_2.jpg);
@@ -844,7 +877,7 @@ transition: 3s;
      position: absolute;
      top: 20px;
      left: 10px;
-     color: #747474;
+     color: #ffffff;
  }
  .blo5 p{
      position: absolute;
@@ -877,7 +910,7 @@ transition: 3s;
          position: absolute;
          top: 20px;
          left: 10px;
-         color: #747474;
+         color: #ffffff;
      }
      .blo8 p{
          position: absolute;
@@ -932,8 +965,8 @@ transition: 3s;
         .in3{
             background-color: #333333;
             color: #747474;
-            width: 529px;
             height: 35px;
+            width: 529px;
             position: absolute;
             top: 6970px ;
             left: 240px ;
@@ -948,6 +981,7 @@ transition: 3s;
             position: absolute;
             top: 7030px;
             left: 240px ;
+            resize:vertical;
         }
         .in5{
             background-color: chartreuse;
@@ -972,7 +1006,7 @@ transition: 3s;
             font-size: 20px;
             position: absolute;
                 top: 6826px ;
-                left: 1040px;
+                left: 1004px;
         }
         .g2{
             color: #747474;
@@ -986,7 +1020,7 @@ transition: 3s;
             font-size: 20px;
             position: absolute;
                 top: 6926px ;
-                left: 1040px;
+                left: 1004px;
         }
         .g4{
             color: #747474;
@@ -1000,7 +1034,7 @@ transition: 3s;
             font-size: 20px;
             position: absolute;
                 top: 7020px ;
-                left: 1050px;
+                left: 1004px;
         }
         .g6{
             color: #747474;
@@ -1014,7 +1048,7 @@ transition: 3s;
             font-size: 20px;
             position: absolute;
                 top: 7100px ;
-                left: 1045px;
+                left: 1005px;
         }
         .g8{
             color: #747474;
@@ -1036,4 +1070,10 @@ transition: 3s;
             position: absolute;
                 top: 7196px ;
                 left: 1010px;
+        }
+        .poi{
+            color: white;
+            position: absolute;
+            top: 7496px;
+            left: 500px;
         }
